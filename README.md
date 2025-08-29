@@ -1,2 +1,5 @@
-# Benchmarking-PDF-Extraction-Modules-in-Python
-Benchmarking and comparing popular Python PDF text extraction libraries for accuracy, speed, and ease of use
+# Benchmarking PDF Text Extraction Modules in Python
+<br>
+### Overview
+This experiment benchmarks popular Python libraries for extracting text from PDF files. The goal is to evaluate their accuracy, speed, and ease of use, helping users choose the best tool for their needs.
+<br>
